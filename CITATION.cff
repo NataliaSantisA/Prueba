@@ -7,7 +7,7 @@ cff-version: 1.2.0
 message: 'To cite package "Prueba" in publications use:'
 type: software
 license: GPL-2.0-or-later
-title: 'Prueba: The Title of the Project'
+title: 'Prueba: Proyecto de prueba'
 version: 0.0.0.9000
 abstract: A paragraph providing a full description of the project (on several lines...)
 authors:
