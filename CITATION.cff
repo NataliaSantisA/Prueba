@@ -15,6 +15,17 @@ authors:
   given-names: Natalia T.
   email: natalia.santis@uchile.cl
   orcid: https://orcid.org/0009-0000-8181-6746
+preferred-citation:
+  type: manual
+  title: 'Prueba: Proyecto de prueba'
+  authors:
+  - family-names: Santis-Alay
+    given-names: Natalia T.
+    email: natalia.santis@uchile.cl
+    orcid: https://orcid.org/0009-0000-8181-6746
+  year: '2024'
+  notes: R package version 0.0.0.9000
+  url: https://github.com/NataliaSantisA/Prueba
 repository-code: https://github.com/NataliaSantisA/Prueba
 url: https://github.com/NataliaSantisA/Prueba
 contact:

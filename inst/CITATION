@@ -1,0 +1,10 @@
+citHeader("To cite package 'Prueba' in publications use:")
+
+bibentry(
+  bibtype = "Manual",
+  title = "Prueba: Proyecto de prueba",
+  author = person(given = "Natalia T.", family = "Santis-Alay", email = "natalia.santis@uchile.cl", role = c("aut", "cre")),
+  year = 2024,
+  note = "R package version 0.0.0.9000",
+  url = "https://github.com/NataliaSantisA/Prueba"
+)
