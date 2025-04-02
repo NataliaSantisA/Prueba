@@ -1,0 +1,25 @@
+# --------------------------------------------
+# CITATION file created with {cffr} R package
+# See also: https://docs.ropensci.org/cffr/
+# --------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "Prueba" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'Prueba: The Title of the Project'
+version: 0.0.0.9000
+abstract: A paragraph providing a full description of the project (on several lines...)
+authors:
+- family-names: Santis-Alay
+  given-names: Natalia T.
+  email: natalia.santis@uchile.cl
+  orcid: https://orcid.org/0009-0000-8181-6746
+repository-code: https://github.com/NataliaSantisA/Prueba
+url: https://github.com/NataliaSantisA/Prueba
+contact:
+- family-names: Santis-Alay
+  given-names: Natalia T.
+  email: natalia.santis@uchile.cl
+  orcid: https://orcid.org/0009-0000-8181-6746
+
